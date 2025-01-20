@@ -393,6 +393,16 @@
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
           "buildTransitive/Microsoft.Maui.Resizetizer.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
       }
     },
     "net8.0-android34.0": {
@@ -2573,6 +2583,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
       }
     },
     "net8.0-ios18.0": {
@@ -2973,6 +2993,16 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst18.0": {
@@ -3372,6 +3402,16 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
         }
       }
     }
@@ -6721,23 +6761,32 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "Contacts.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../Contacts.CoreBusiness/Contacts.CoreBusiness.csproj",
+      "msbuildProject": "../Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Contacts.CoreBusiness >= 1.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100"
     ],
     "net8.0-android34.0": [
+      "Contacts.CoreBusiness >= 1.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100"
     ],
     "net8.0-ios18.0": [
+      "Contacts.CoreBusiness >= 1.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.7"
     ],
     "net8.0-maccatalyst18.0": [
+      "Contacts.CoreBusiness >= 1.0.0",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.7"
@@ -6772,19 +6821,35 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj": {
+              "projectPath": "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
+            }
+          }
         },
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj": {
+              "projectPath": "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
+            }
+          }
         },
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj": {
+              "projectPath": "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
+            }
+          }
         },
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj": {
+              "projectPath": "/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

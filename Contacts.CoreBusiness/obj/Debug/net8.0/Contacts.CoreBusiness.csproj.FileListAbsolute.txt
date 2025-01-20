@@ -1,0 +1,13 @@
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/bin/Debug/net8.0/Contacts.CoreBusiness.deps.json
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/bin/Debug/net8.0/Contacts.CoreBusiness.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/bin/Debug/net8.0/Contacts.CoreBusiness.pdb
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.csproj.AssemblyReference.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.AssemblyInfoInputs.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.AssemblyInfo.cs
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.sourcelink.json
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/refint/Contacts.CoreBusiness.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/Contacts.CoreBusiness.pdb
+/Users/dilanozer/RiderProjects/Contacts/Contacts.CoreBusiness/obj/Debug/net8.0/ref/Contacts.CoreBusiness.dll

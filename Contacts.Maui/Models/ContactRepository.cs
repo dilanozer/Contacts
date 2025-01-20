@@ -63,6 +63,8 @@ public static class ContactRepository
 
     public static List<Contact> SearchContacts(string filterText)
     {
+        
+        
         var contacts = _contacts.Where(x => !string.IsNullOrWhiteSpace(x.Name) && x.Name.StartsWith(filterText, StringComparison.OrdinalIgnoreCase))?.ToList();
 
         if (contacts == null || contacts.Count <= 0)

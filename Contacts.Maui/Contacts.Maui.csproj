@@ -63,4 +63,10 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.1"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Contacts.CoreBusiness\Contacts.CoreBusiness.csproj" />
+      <ProjectReference Include="..\Contacts.UseCases\Contacts.UseCases.csproj" />
+      <ProjectReference Include="..\Plugins\Contacts.Plugins.DataStore.InMemory\Contacts.Plugins.DataStore.InMemory.csproj" />
+    </ItemGroup>
+
 </Project>

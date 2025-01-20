@@ -1,0 +1,16 @@
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/bin/Debug/net8.0/Contacts.UseCases.deps.json
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/bin/Debug/net8.0/Contacts.UseCases.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/bin/Debug/net8.0/Contacts.UseCases.pdb
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/bin/Debug/net8.0/Contacts.CoreBusiness.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/bin/Debug/net8.0/Contacts.CoreBusiness.pdb
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.csproj.AssemblyReference.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.AssemblyInfoInputs.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.AssemblyInfo.cs
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.csproj.CoreCompileInputs.cache
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.sourcelink.json
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.24B148F2.Up2Date
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/refint/Contacts.UseCases.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/Contacts.UseCases.pdb
+/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/obj/Debug/net8.0/ref/Contacts.UseCases.dll

@@ -47,18 +47,74 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Maui.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g2i/CDG5lhVfxwdyCHEZGzCbVTKMaUipkIUQ9p0O1kA=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2yx2Dj5qGkk96kbQ+aEN5y7qPOFwlciseRgRCjfvY6U=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.CoreBusiness.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pv9pggnit4mhf2HQ5qZoEwMUxAyGIvxUrthqytnumEg=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.CoreBusiness.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9S8+rFfP6/CHD0TR29XjjIVdVzP0Zewmffn1I/nPEzU=
+			</data>
+		</dict>
 		<key>MonoBundle/Contacts.Maui.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ss2LlbivzscuSD6gc0PLL/5/koXNNbw08p0K/VI208=
+			bzrjE1jLjfBiqYbpmdK50OqqqzstLHGzXyQmb0m7grs=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Maui.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ht2iZfDbG3OHYDvzdf/difSjHTxP+ujfRQbiQ7vjMBg=
+			4WaOw48TmL7MSVAJPAHFBbv36710dwuyYHVESNt7l1U=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fyftpZSJHn/dqZtTsKsxmeWMdZZSPvtLCPUNboIqsEY=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zlzRjeIb3wSLeaW4367AIibZSQAwz0X1hRBjvrKmJ2s=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.UseCases.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U2ymmWArOcy+SG3gZ4BEgO94lu51XWWKnZWZ/vEfVXU=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.UseCases.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rn2rHu4s4eTsUXnnCCAxIXUOTKitm7sJS8EpEAkuXcU=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1353,7 +1409,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DV2xX0nZZmki57OrKlXXJxEk6hFsJx9P4dDoEGDoCDQ=
+			HNu2/oVPSdVcosOPwM1FlMOH9x+FNv4LTjbxo8B7IxQ=
 			</data>
 		</dict>
 		<key>MonoBundle/ar/Microsoft.Maui.Controls.resources.dll</key>
