@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WUSExMIMM3g=",
+  "dgSpecHash": "CY4yktvIE2Y=",
   "success": true,
   "projectFilePath": "/Users/dilanozer/RiderProjects/Contacts/Contacts.UseCases/Contacts.UseCases.csproj",
   "expectedPackageFiles": [
+    "/Users/dilanozer/.nuget/packages/communitytoolkit.mvvm/8.4.0/communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "/Users/dilanozer/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/dilanozer/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/dilanozer/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

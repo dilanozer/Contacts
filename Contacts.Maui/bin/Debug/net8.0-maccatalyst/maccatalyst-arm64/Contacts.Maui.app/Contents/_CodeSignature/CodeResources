@@ -61,60 +61,67 @@
 			2yx2Dj5qGkk96kbQ+aEN5y7qPOFwlciseRgRCjfvY6U=
 			</data>
 		</dict>
+		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fX61wGbP6IO0ObEgC/Xcs4ex5TGd0u29qp4jrf5BZFI=
+			</data>
+		</dict>
 		<key>MonoBundle/Contacts.CoreBusiness.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pv9pggnit4mhf2HQ5qZoEwMUxAyGIvxUrthqytnumEg=
+			mtlt/6FRln0j3ONp5wlho8AZKCSQ7IE5UckTzfxY+zg=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.CoreBusiness.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9S8+rFfP6/CHD0TR29XjjIVdVzP0Zewmffn1I/nPEzU=
+			3aDRKI0lPrKHa5D7O7Sawj+y4iMFDJXHhA2/VX566Ss=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Maui.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bzrjE1jLjfBiqYbpmdK50OqqqzstLHGzXyQmb0m7grs=
+			W4t9wkhobkXrluv4oq2L/jJD+ROMEQ9QB6rxT2+NPR4=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Maui.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4WaOw48TmL7MSVAJPAHFBbv36710dwuyYHVESNt7l1U=
+			megNUiLf7l8grACvpDEUdlWo7GO5gHaZ1atoRlL/Px0=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fyftpZSJHn/dqZtTsKsxmeWMdZZSPvtLCPUNboIqsEY=
+			nlNa7dqfmvfl8Ut8NtPtBFpWCfDg7TwM81Vvm3q5gCM=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zlzRjeIb3wSLeaW4367AIibZSQAwz0X1hRBjvrKmJ2s=
+			daTmLIzY9L+XNFH4mknOZiw1q4vy3CiErIkYrHfnAjU=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.UseCases.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U2ymmWArOcy+SG3gZ4BEgO94lu51XWWKnZWZ/vEfVXU=
+			If5UZbFpzQC+HsAhk5EZzE0liILN8de7tILl2eek2HA=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.UseCases.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rn2rHu4s4eTsUXnnCCAxIXUOTKitm7sJS8EpEAkuXcU=
+			Gw0Pg01e5Ab4N358KVa+XIk6U3iPYN7Kj/t4EXSxMSo=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1409,7 +1416,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HNu2/oVPSdVcosOPwM1FlMOH9x+FNv4LTjbxo8B7IxQ=
+			PBb72GP0EPQ2gYxBLjbzdXG5l//RZ8+WkGyosqIqMUY=
 			</data>
 		</dict>
 		<key>MonoBundle/ar/Microsoft.Maui.Controls.resources.dll</key>
@@ -1612,7 +1619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZlFfGnlC3L3W79Mk7oFQBLObWxc/8JPosJSOWBQDNpc=
+			33fLfq8F8YJzr1dQWdtzxvqXTqbGOq2MCFrtTEGQsZM=
 			</data>
 		</dict>
 		<key>MonoBundle/sk/Microsoft.Maui.Controls.resources.dll</key>

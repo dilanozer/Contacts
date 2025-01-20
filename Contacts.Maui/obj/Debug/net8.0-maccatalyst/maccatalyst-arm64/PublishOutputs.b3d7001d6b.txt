@@ -36,6 +36,7 @@
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/runtimeconfig.bin
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/CommunityToolkit.Maui.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/CommunityToolkit.Maui.Core.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Contacts.Maui.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll

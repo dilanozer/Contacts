@@ -36,6 +36,7 @@
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/runtimeconfig.bin
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/CommunityToolkit.Maui.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/CommunityToolkit.Maui.Core.dll
+/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/CommunityToolkit.Mvvm.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/Microsoft.Extensions.Configuration.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Contacts.Maui.app/Microsoft.Extensions.DependencyInjection.dll

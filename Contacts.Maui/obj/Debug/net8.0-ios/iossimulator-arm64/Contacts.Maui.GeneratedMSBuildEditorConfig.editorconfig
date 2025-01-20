@@ -3,6 +3,11 @@ build_property.EnableAotAnalyzer =
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotWarningLevel = 
 build_property.TargetFramework = net8.0-ios
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -69,3 +74,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views.EditContactPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/EditContactPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/EditContactPage.xaml
+
+[/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/Views_MVVM/AddContact_MVVM_Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.AddContact_MVVM_Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM/AddContact_MVVM_Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM/AddContact_MVVM_Page.xaml
+
+[/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/Views_MVVM/Contacts_MVVM_Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.Contacts_MVVM_Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM/Contacts_MVVM_Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM/Contacts_MVVM_Page.xaml
+
+[/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/Views_MVVM/Controls/ContactControl_MVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.Controls.ContactControl_MVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM/Controls/ContactControl_MVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM/Controls/ContactControl_MVVM.xaml
+
+[/Users/dilanozer/RiderProjects/Contacts/Contacts.Maui/Views_MVVM/EditContact_MVVM_Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.EditContact_MVVM_Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM/EditContact_MVVM_Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM/EditContact_MVVM_Page.xaml
