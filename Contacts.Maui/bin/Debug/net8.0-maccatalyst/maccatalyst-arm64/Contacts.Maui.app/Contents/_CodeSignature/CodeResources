@@ -72,56 +72,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtlt/6FRln0j3ONp5wlho8AZKCSQ7IE5UckTzfxY+zg=
+			QenaOwTUYep1sD8uRyId3YywOAhgykMM1BZ1/G8R5H0=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.CoreBusiness.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3aDRKI0lPrKHa5D7O7Sawj+y4iMFDJXHhA2/VX566Ss=
+			uJsZMU3LJ0qp+aQGXnduEUDB6NUMlJwTjf57LNY98e0=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Maui.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W4t9wkhobkXrluv4oq2L/jJD+ROMEQ9QB6rxT2+NPR4=
+			YjGzW2iWnVmSiJgXfennvo1Pv8EHMkEsyZrDAtIkApQ=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Maui.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			megNUiLf7l8grACvpDEUdlWo7GO5gHaZ1atoRlL/Px0=
+			9V+C64DDhkdiiSKfuKszByHiBI53/ctaMm8NEiapmxc=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nlNa7dqfmvfl8Ut8NtPtBFpWCfDg7TwM81Vvm3q5gCM=
+			yHQ4E5G120M6GzLB31l+tOMb62m7+FRofFD1AD/kxrk=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.Plugins.DataStore.InMemory.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			daTmLIzY9L+XNFH4mknOZiw1q4vy3CiErIkYrHfnAjU=
+			eMUzzrFw4qY423ane/SHM+b6jp8iN6Z/Edyc3aCBj0Y=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.SQLite.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7OsY1bwAlO+Br226YHTnd7cDQgoxuVaAlEq3a29WOY0=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.SQLite.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lCTk7sokIe0Jtmk49QxhxBQiRqi3PxwbGe4X4J5S7Yw=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.WebApi.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsJxnEFxGfc+1dClO7XjUq/ZDduOItYqC1vlPiJjA+w=
+			</data>
+		</dict>
+		<key>MonoBundle/Contacts.Plugins.DataStore.WebApi.pdb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			61JJQ7DFvazqsBhFH3il+omEkc7nrmwVOifBUNO2vnE=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.UseCases.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			If5UZbFpzQC+HsAhk5EZzE0liILN8de7tILl2eek2HA=
+			xkH7B1493C7m/jraaPOU95fyOmaZNClQsa5oFetdLew=
 			</data>
 		</dict>
 		<key>MonoBundle/Contacts.UseCases.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gw0Pg01e5Ab4N358KVa+XIk6U3iPYN7Kj/t4EXSxMSo=
+			2J5ysLOfUDAX/Y8M7LfvutthAnI+V3nTdpYqlB3hbnM=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -276,6 +304,34 @@
 			<key>hash2</key>
 			<data>
 			e6j1WuYikZTtXsVp3k798o6TKWAAZ2Ro8e9MRzcHxfs=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLite-net.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/0h0FMSssyqe6OCqk97walP3tX35PS56JgVOGN+Fcj4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.batteries_v2.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vl480+06/VzDcXWwfGLPoerls6fWdhRiz2fvw1+HeB4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			28/QTpWu+p7w3K1M0gAJsBjdPSlDyMzz9AWXue2RYbg=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MN1q54mSgfm3FaufjOsdZ7bUyNdqIdqq/CFZVfzzfww=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1416,7 +1472,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PBb72GP0EPQ2gYxBLjbzdXG5l//RZ8+WkGyosqIqMUY=
+			aD65keW5+/Ur+0twrB56nY23XKvnzhpV/w+z2X2Ga9U=
 			</data>
 		</dict>
 		<key>MonoBundle/ar/Microsoft.Maui.Controls.resources.dll</key>
@@ -1543,6 +1599,13 @@
 			<key>hash2</key>
 			<data>
 			mB+rfjUPmBvG4t0cXauTh5ZjZQC3ENXzkZ9SGH2KtCQ=
+			</data>
+		</dict>
+		<key>MonoBundle/libe_sqlite3.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Lnr0MHCWDpPn6v3oBeCrNQ5vnuUMF18ZpD4oSmXzuM=
 			</data>
 		</dict>
 		<key>MonoBundle/ms/Microsoft.Maui.Controls.resources.dll</key>

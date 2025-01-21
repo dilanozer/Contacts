@@ -10,6 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{FA60
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.InMemory", "Plugins\Contacts.Plugins.DataStore.InMemory\Contacts.Plugins.DataStore.InMemory.csproj", "{392F4EFD-898F-442C-B4A3-207483D95F2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.SQLite", "Plugins\Contacts.Plugins.DataStore.SQLite\Contacts.Plugins.DataStore.SQLite.csproj", "{13D57A5C-1288-44DF-B00D-3CBF40B30D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.WebApi", "Contacts.WebApi\Contacts.WebApi.csproj", "{DE50589B-B260-4C24-8653-CF6F76C70B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.WebApi", "Plugins\Contacts.Plugins.DataStore.WebApi\Contacts.Plugins.DataStore.WebApi.csproj", "{4A663AC2-C46F-46D9-905D-731926B6EA38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +38,22 @@ Global
 		{392F4EFD-898F-442C-B4A3-207483D95F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392F4EFD-898F-442C-B4A3-207483D95F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392F4EFD-898F-442C-B4A3-207483D95F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D57A5C-1288-44DF-B00D-3CBF40B30D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D57A5C-1288-44DF-B00D-3CBF40B30D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D57A5C-1288-44DF-B00D-3CBF40B30D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D57A5C-1288-44DF-B00D-3CBF40B30D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE50589B-B260-4C24-8653-CF6F76C70B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE50589B-B260-4C24-8653-CF6F76C70B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE50589B-B260-4C24-8653-CF6F76C70B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE50589B-B260-4C24-8653-CF6F76C70B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A663AC2-C46F-46D9-905D-731926B6EA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A663AC2-C46F-46D9-905D-731926B6EA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A663AC2-C46F-46D9-905D-731926B6EA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A663AC2-C46F-46D9-905D-731926B6EA38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{392F4EFD-898F-442C-B4A3-207483D95F2D} = {FA602C2D-4DE0-48C4-A188-6755E455E3D0}
+		{13D57A5C-1288-44DF-B00D-3CBF40B30D8A} = {FA602C2D-4DE0-48C4-A188-6755E455E3D0}
+		{4A663AC2-C46F-46D9-905D-731926B6EA38} = {FA602C2D-4DE0-48C4-A188-6755E455E3D0}
 	EndGlobalSection
 EndGlobal

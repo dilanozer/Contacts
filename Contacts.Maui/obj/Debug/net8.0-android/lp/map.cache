@@ -2,6 +2,8 @@ CommunityToolkit.Maui.Core.dll
 CommunityToolkit.Maui.dll
 Contacts.CoreBusiness.dll
 Contacts.Plugins.DataStore.InMemory.dll
+Contacts.Plugins.DataStore.SQLite.dll
+Contacts.Plugins.DataStore.WebApi.dll
 Contacts.UseCases.dll
 GoogleGson.dll
 Jsr305Binding.dll
@@ -11,6 +13,8 @@ Microsoft.Maui.Controls.Xaml.dll
 Microsoft.Maui.dll
 Microsoft.Maui.Essentials.dll
 Microsoft.Maui.Graphics.dll
+SQLitePCLRaw.batteries_v2.dll
+SQLitePCLRaw.lib.e_sqlite3.android.dll
 Xamarin.Android.Glide.Annotations.dll
 Xamarin.Android.Glide.DiskLruCache.dll
 Xamarin.Android.Glide.dll
@@ -161,5 +165,6 @@ Microsoft.Maui.Controls.aar
 maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
+SQLitePCLRaw.lib.e_sqlite3.android.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar

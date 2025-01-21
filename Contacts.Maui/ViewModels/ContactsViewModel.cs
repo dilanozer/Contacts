@@ -31,7 +31,7 @@ public partial class ContactsViewModel : ObservableObject
     {
         _viewContactsUseCase = viewContactsUseCase;
         _deleteContactUseCase = deleteContactUseCase;
-        Contacts = new ObservableCollection<Contact>();
+        this.Contacts = new ObservableCollection<Contact>();
     }
 
     public async Task LoadContactsAsync(string filterText = null)

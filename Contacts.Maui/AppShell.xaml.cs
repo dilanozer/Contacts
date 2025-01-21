@@ -9,7 +9,6 @@ public partial class AppShell : Shell
     {
         InitializeComponent();
         
-        Routing.RegisterRoute(nameof(ContactsPage), typeof(ContactsPage));
         Routing.RegisterRoute(nameof(EditContactPage), typeof(EditContactPage));
         Routing.RegisterRoute(nameof(AddContactPage), typeof(AddContactPage));
         Routing.RegisterRoute(nameof(Contacts_MVVM_Page), typeof(Contacts_MVVM_Page));

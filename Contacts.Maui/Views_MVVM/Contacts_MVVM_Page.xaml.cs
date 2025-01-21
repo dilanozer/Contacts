@@ -8,9 +8,9 @@ public partial class Contacts_MVVM_Page : ContentPage
 
     public Contacts_MVVM_Page(ContactsViewModel contactsViewModel)
     {
-        _contactsViewModel = contactsViewModel;
         InitializeComponent();
         
+        _contactsViewModel = contactsViewModel;
         BindingContext = _contactsViewModel;
     }
 
